@@ -1,3 +1,5 @@
+// 挿入ソートを行うためのプログラム
+
 package main
 
 import (
